@@ -1,0 +1,44 @@
+# Geotechnik — Magdeburg
+
+> Geotechnical engineering services in Magdeburg, Deutschland.
+
+## Services
+- [Anker](https://magdeburg.geotechnik.biz/anker/)
+- [Atterberg Grenzen](https://magdeburg.geotechnik.biz/atterberg-grenzen/)
+- [Aushub](https://magdeburg.geotechnik.biz/aushub/)
+- [Bodenverbesserung](https://magdeburg.geotechnik.biz/bodenverbesserung/)
+- [Cpt Versuch](https://magdeburg.geotechnik.biz/cpt-versuch/)
+- [Erdbebenisolierung](https://magdeburg.geotechnik.biz/erdbebenisolierung/)
+- [Flexibler Belag](https://magdeburg.geotechnik.biz/flexibler-belag/)
+- [Geophysik](https://magdeburg.geotechnik.biz/geophysik/)
+- [Grundungen](https://magdeburg.geotechnik.biz/grundungen/)
+- [Hange](https://magdeburg.geotechnik.biz/hange/)
+- [In Situ Durchlassigkeit](https://magdeburg.geotechnik.biz/in-situ-durchlassigkeit/)
+- [Injektionen](https://magdeburg.geotechnik.biz/injektionen/)
+- [Korngrossenanalyse](https://magdeburg.geotechnik.biz/korngrossenanalyse/)
+- [Labor](https://magdeburg.geotechnik.biz/labor/)
+- [Labor In Situ](https://magdeburg.geotechnik.biz/labor-in-situ/)
+- [Masw](https://magdeburg.geotechnik.biz/masw/)
+- [Pfahle](https://magdeburg.geotechnik.biz/pfahle/)
+- [Plattendruckversuch](https://magdeburg.geotechnik.biz/plattendruckversuch/)
+- [Ruttelverdichtung](https://magdeburg.geotechnik.biz/ruttelverdichtung/)
+- [Sandkegel Dichte](https://magdeburg.geotechnik.biz/sandkegel-dichte/)
+- [Schottersaulen](https://magdeburg.geotechnik.biz/schottersaulen/)
+- [Seismik](https://magdeburg.geotechnik.biz/seismik/)
+- [Seismische Mikrozonierung](https://magdeburg.geotechnik.biz/seismische-mikrozonierung/)
+- [Seismische Refraktion](https://magdeburg.geotechnik.biz/seismische-refraktion/)
+- [Spt Bohrung](https://magdeburg.geotechnik.biz/spt-bohrung/)
+- [Starrer Belag](https://magdeburg.geotechnik.biz/starrer-belag/)
+- [Strassenbau](https://magdeburg.geotechnik.biz/strassenbau/)
+- [Stutzmauern](https://magdeburg.geotechnik.biz/stutzmauern/)
+- [Tiefe Aushube](https://magdeburg.geotechnik.biz/tiefe-aushube/)
+- [Untersuchung](https://magdeburg.geotechnik.biz/untersuchung/)
+- [Weichbodentunnel](https://magdeburg.geotechnik.biz/weichbodentunnel/)
+- [Widerstand](https://magdeburg.geotechnik.biz/widerstand/)
+
+## Contact
+- Website: https://magdeburg.geotechnik.biz/
+
+## About
+This site provides geotechnical engineering services in Magdeburg, Deutschland.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
